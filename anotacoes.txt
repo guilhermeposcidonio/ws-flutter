@@ -1,4 +1,13 @@
 O que é flutter?
 é uma ferramenta(framework) que permite cross-platform que é a utilização de um mesmo codigo para mais de uma apliação 
-por exemplo é possivel com o mesmo codigo fazer um app(android e ios) e uma pagina web
--o flutter utilza a linguagem dart
+por exemplo é possivel com o mesmo codigo fazer um app(android e ios), uma pagina web e desktoop
+
+*O flutter utilza a linguagem dart
+
+*sdk utilizado para compilar o codigo e utilzar ferramentas
+
+*framework/ widget library sao componetnes que podem ser reutilzados, funções ou pacotes
+
+**foi criado pelo google, orientada a objeto, sua sintaxe é a mistura de java, JS e C#
+
+*O flutter é usado com widgets que sao pequenas parte que compoem o codigo como uma arvore 
