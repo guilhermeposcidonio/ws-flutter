@@ -11,3 +11,15 @@ por exemplo é possivel com o mesmo codigo fazer um app(android e ios), uma pagi
 **foi criado pelo google, orientada a objeto, sua sintaxe é a mistura de java, JS e C#
 
 *O flutter é usado com widgets que sao pequenas parte que compoem o codigo como uma arvore 
+
+*no flutter a main é a principal do projeto nela pode ser contida as aplicações feitas na mao e o core do projeto
+
+*no canto inferior do vscode é onde fica quais dispositivos voce pode rodar sua aplicação
+*material é um sistema criado pelo google para design da aplcação 
+Obs. ele é altamente persolnalizavel para ios tambem porem se voce quiser fazer algo mais voltado para o ios é 
+necessario usar wighets custuma se dizer cupertino 
+
+~flutter create nomeProjeto é utilizado para criar o projeto 
+~fluter pub get é utilzado para baixar todas as dependencias que tem no projeto como o npm install
+
+*quando necesario comparara dois arquivos basta coloca-los na mesma pasta abrir com o vscode selecionar os dois e clicar em comparar com o botao direoto do mouse
