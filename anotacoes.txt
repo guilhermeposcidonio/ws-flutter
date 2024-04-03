@@ -23,3 +23,5 @@ necessario usar wighets custuma se dizer cupertino
 ~fluter pub get é utilzado para baixar todas as dependencias que tem no projeto como o npm install
 
 *quando necesario comparara dois arquivos basta coloca-los na mesma pasta abrir com o vscode selecionar os dois e clicar em comparar com o botao direoto do mouse
+
+*para executarmos o projeto basta ir em run ou debug -> run without debugging ou com debugging
