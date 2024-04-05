@@ -25,3 +25,34 @@ necessario usar wighets custuma se dizer cupertino
 *quando necesario comparara dois arquivos basta coloca-los na mesma pasta abrir com o vscode selecionar os dois e clicar em comparar com o botao direoto do mouse
 
 *para executarmos o projeto basta ir em run ou debug -> run without debugging ou com debugging
+
+
+            ****** dart *****
+instalado o code runner como extensao no vscode é possivel usar o atalho ctrl + alt + n para inicar a aaplicação 
+e ctrl + alt + m para para a aplicação sera exibido no output e nao precisa salvar para executar 
+*mais caso tenha salvo uma vez tem que salvar toda vez para funcionar
+
+*se executar e o cursor estiver em cima do output ele nao executa
+
+*caso ele esteja executando ele nao executa novamente precisa ser parado e iniciado novamente
+
+*é possivel selecionar trechos de codigos para serem executados porem se essa seleçao estiver incorreta ou feita sem querer ele nao sera executado 
+
+*para executar o codigo em dart é necesaario sempre colocar ;
+
+*alt + shift + seta para baixo ele duplica a linha 
+
+*blocos em dart sao divididos por {} 
+
+***tipos de variaveis 
+int - inteiro 
+double - numeros com . ex. 5.8
+var - pode ser qualquer uma das acimas o compilador ira ver qual voce esta referenciando e assim tipa-la
+
+** caso precise contatenar e ainda sim somar tres var por exemplo basta colocar o texto na frente a conta entre parenteses e colocar o .toString
+Ex. print( n1 + (n2 +n3).toString) no caso n é um texto n2 e n3 sao numeros 
+
+*para verificar o tipo da variavel voce pode colocar na fernte dela .runtimeType assim ele retorno o tipo da variavel 
+Ex. n1.runtimeType
+
+obs. é possivel testar a vairavel tambem por ex (n1 is int) se retornar true é porque é inteiro 
