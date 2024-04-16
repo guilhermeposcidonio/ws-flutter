@@ -56,3 +56,17 @@ Ex. print( n1 + (n2 +n3).toString) no caso n é um texto n2 e n3 sao numeros
 Ex. n1.runtimeType
 
 obs. é possivel testar a vairavel tambem por ex (n1 is int) se retornar true é porque é inteiro 
+
+*stdin pega os dados do ussuario 
+*readlinesync le a linha que o usuario digitou
+
+* para converter uma string para double basta colocar uma variavel qualquer  igual a double.parse(variavel_String)
+caso precise ao contrario coloque a variavel do tipo double.toString()
+
+*variavel do tipo final é o mesmo que const ela nao muda 
+
+* print imprime mais joga os valeres na linha de baixo 
+*stdout.write imprime na mesma linha 
+
+** a variavel const tambem existe no dart porem ela so pode ser declarada em variveis que ficarao chumbadas no codigo
+nao pode ser atribuidas em tempo de execução
