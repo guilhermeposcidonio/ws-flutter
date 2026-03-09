@@ -48,6 +48,10 @@ e ctrl + alt + m para para a aplicação sera exibido no output e nao precisa sa
 int - inteiro 
 double - numeros com . ex. 5.8
 var - pode ser qualquer uma das acimas o compilador ira ver qual voce esta referenciando e assim tipa-la
+dynamic -  tipo dinamico como se fosse um tipo any
+map - quando e ha um array de variaveis que podem ter um index como referencia
+final -  é bem parecido com o const o que muda é a execução na compilação
+
 
 ** caso precise contatenar e ainda sim somar tres var por exemplo basta colocar o texto na frente a conta entre parenteses e colocar o .toString
 Ex. print( n1 + (n2 +n3).toString) no caso n é um texto n2 e n3 sao numeros 
@@ -70,3 +74,6 @@ caso precise ao contrario coloque a variavel do tipo double.toString()
 
 ** a variavel const tambem existe no dart porem ela so pode ser declarada em variveis que ficarao chumbadas no codigo
 nao pode ser atribuidas em tempo de execução
+
+** Tipo da função void nao precisa de return e fica mais facil de utilizar a chamada, sem o void deve colcar o return e chaama la funcao atribuindo valores
+**tipo function é uma funcao que pode ser atribuida dentro de outra funcao.
