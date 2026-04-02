@@ -77,3 +77,33 @@ nao pode ser atribuidas em tempo de execução
 
 ** Tipo da função void nao precisa de return e fica mais facil de utilizar a chamada, sem o void deve colcar o return e chaama la funcao atribuindo valores
 **tipo function é uma funcao que pode ser atribuida dentro de outra funcao.
+
+
+**Scaffold é a base padrao de layout do flutter 
+**AppBar é como se fodde o header
+**body é o corpo com no angular
+
+*Column funciona cmo se fosse a col do angular Column(Children: [
+text: "tesst",text: "tesst", text: "tesst"])
+
+*** Atalho para envolver em uma coluna ou row basta colocar o cursro em cima e deposi apertar "crtl + ."
+
+**RisedButton é  botao em si porem nele ha varios elementos que sao atribuidos para sua funcionalidade
+
+***passar uma funcao é diferente de chama-la, no flutter chama-la é quando se coloca os () e se nao voce esta passando aquela funcao para uma variavel por exemplo 
+
+**setState fica monitorando alterações
+
+*Declaroações feitas com _ torna ela privada 
+*widht: double.infity - faz com que ocupe todo o container
+* ... e a variavel faz com qu eseja atribuido toda a lista a variavel 
+
+***Modo Debug esse modo é mais lento porem é possivel ter mais funcionalidades, 
+*variables sao todos os passo que o projeto esta executando, 
+*watch é o local para ficar de olho na variavel sempe que ele alterar, 
+*call stack é a pilha de xecução da aplicação 
+
+***devtools é como o inspencionar porem ele precisa ser executado e ele mostra todos os componentes da pagina no geral 
+*debug paintg ele mostra igual quando se clina no row e ele mostra todoso os pontilhados da pagina indicando o que esta acontecendo na pagina
+*repaint rainbow ajuda a ver quais componentes da pagna esta sendo redenido ou apenas pintado novamente
+*timeline ele mostra todo o processamento da aplicação UI e GPU, no modo debug não é possivel gerar indicativos por ser mais lento mais é possivel ter uma noção 
