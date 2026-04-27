@@ -107,3 +107,5 @@ text: "tesst",text: "tesst", text: "tesst"])
 *debug paintg ele mostra igual quando se clina no row e ele mostra todoso os pontilhados da pagina indicando o que esta acontecendo na pagina
 *repaint rainbow ajuda a ver quais componentes da pagna esta sendo redenido ou apenas pintado novamente
 *timeline ele mostra todo o processamento da aplicação UI e GPU, no modo debug não é possivel gerar indicativos por ser mais lento mais é possivel ter uma noção 
+
+**Se der erro no gradle tentar verificar o arquivo \android\gradle\wrapper\gradle-wrapper que ja funciona e verificar como criou quando criou o projeto novo e alterar para o que ja é utilizado apos isso pedi liberação de rede e antivirus para executar o projeto.
